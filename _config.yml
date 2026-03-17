@@ -20,7 +20,7 @@ source-code: https://JBakerUTK.github.io/JKBINSC565
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: JKB Collection 
+title: JKB Postcard Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Learning Collection Builder
 # description appears in meta tags and other locations
@@ -34,7 +34,7 @@ author: JKBaker
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: c001
+metadata: JKB001
 
 ##########
 # Site/Organization Branding 
